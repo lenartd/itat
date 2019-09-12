@@ -1,0 +1,88 @@
+header .site-banner{
+    margin-left:20%;
+}
+header .header-foto{
+
+}
+
+body{
+    background-color: #eafaea;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+}
+
+#cust{
+    font-weight: bold;
+}
+
+main {
+    text-align: left;
+    margin-right:20%;
+    margin-left:20%;
+}
+main h1{
+    font-family: Georgia, serif;
+}
+main a{
+
+}
+main h2{
+
+}
+main p{
+
+}
+main > section{
+
+}
+main article{
+
+}
+main article ul{
+    
+}
+main article ul li{
+    
+}
+
+aside{
+    text-align: left;
+    margin-right:20%;
+    margin-left:20%;
+}
+
+aside #sidebar{
+
+}
+aside #sidebar #search{
+
+}
+aside #sidebar #search-form{
+
+}
+aside #sidebar #search-form fieldset{
+
+}
+aside #sidebar nav{
+
+}
+aside #sidebar nav > ul > li{
+
+}
+aside #sidebar nav > ul > li >ul{
+
+}
+aside #sidebar nav > ul > li > ul >li{
+
+}
+aside #sidebar #sponzors{
+
+}
+aside #sidebar #sponzors h2{
+
+}
+
+footer{
+    text-align: center;
+    margin-right:25%;
+    margin-left:20%;
+}
